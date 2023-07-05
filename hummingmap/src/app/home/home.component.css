@@ -6,3 +6,22 @@
     /* position: fixed; */
     /* margin-top: 80px; */
 }
+
+.sidemap{
+    border-radius: 20px;
+    box-shadow: 1px 2px 4px rgb(0,0,0,.5);
+    width: 20%;
+    background-color: #ffffff;
+    position: fixed;
+    z-index: 1;
+    height: 80%;
+    left: 100px;
+    top: 100px;
+}
+
+.ontop_btn {
+    position: absolute;
+    top: 10px;
+    right: 80px;
+    z-index: 700;
+  }
